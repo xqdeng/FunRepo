@@ -1,2 +1,3 @@
 # FunRepo
-Adding a function
+Adding a function 1
+Adding function 2
